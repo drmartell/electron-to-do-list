@@ -27,6 +27,7 @@ const createAddWindow = () => {
     height: 300,
     title: 'Add New Todo'
   });
+  addWindow.loadURL(`file://${__dirname}/add.html`);
 }
 
 const menuTemplate = [{
