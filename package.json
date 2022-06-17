@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/drmartell/electron-to-do-list#readme",
   "dependencies": {
-    "electron": "^8.1.1"
+    "electron": "^15.5.5"
   }
 }
